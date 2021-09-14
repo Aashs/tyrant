@@ -120,6 +120,13 @@ LEMON_FACTS = [
     "To power a flashlight bulb, you need 500 wired lemons to conduct electricity.",
     "The heaviest lemon was 11 pounds, 9.7 ounces in 2003.",
     "Lemon was a common unisex name in the 1900’s.",
+    "A lemon tree starts bearing fruits at 3 to 5 years old.",
+    "Lemons are nature’s best insect repellent.",
+    "Lemon juice can destroy many deadly bacterias.",
+    "The Moroccans preserve lemons in jars before they are used in different dishes.",
+    "Lemons turn from green to yellow because of temperature changes.",
+    "Meyer lemon is the most cold-tolerant variety.",
+    "A bowl of fresh lemons makes an easy, effortless air freshener.",
 ]
 
 ALL_FRUIT_AND_VEG_ROLES = [
