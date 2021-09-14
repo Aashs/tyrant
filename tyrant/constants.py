@@ -120,6 +120,14 @@ LEMON_FACTS = [
     "To power a flashlight bulb, you need 500 wired lemons to conduct electricity.",
     "The heaviest lemon was 11 pounds, 9.7 ounces in 2003.",
     "Lemon was a common unisex name in the 1900’s.",
+    "Lemons were introduced to Persia around 700 AD.",
+    "Christopher Columbus brought lemon seeds to Hispaniola.",
+    "A lemon tree starts bearing fruits at 3 to 5 years old.",
+    "Lemons are nature’s best insect repellent.",
+    "Lemon juice can destroy many deadly bacterias",
+    "The name “lemon” may have originated from the Middle East.",
+    "The Moroccans preserve lemons in jars before they are used in different dishes.",
+    "Wealthy Victorians grew lemons in their homes as a sign of wealth and power.",
 ]
 
 ALL_FRUIT_AND_VEG_ROLES = [
